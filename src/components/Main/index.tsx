@@ -1,6 +1,6 @@
 const Main = () => (
   <main>
-    <h1>react av</h1>
+    <h2>react av</h2>
   </main>
 );
 
